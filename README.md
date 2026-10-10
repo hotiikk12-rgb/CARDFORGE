@@ -18,15 +18,6 @@ Java를 배우고, Unity로 게임을 만들고 있습니다. 작은 기능부�
 
 *A roguelike deck-building game in development with Unity 6. English localization and a mobile release are planned.*
 
-## Projects
-
-### [용사 파티 키우기](https://github.com/hotiikk12-rgb/c-)
-**C · Windows Console**
-
-전사·도적·궁수·마법사를 모두 5레벨까지 성장시키는 콘솔 게임입니다. 배열, 함수, 조건문과 반복문으로 캐릭터의 상태와 게임 흐름을 구현했습니다.
-
-*Train four heroes through selectable actions, random events, and party growth.*
-
 ## Learning & tools
 
 - **C / Java** — 프로그래밍 기초와 게임 로직
