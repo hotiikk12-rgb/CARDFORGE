@@ -3,23 +3,17 @@
 **게임을 만들며 배우는 개발자**  
 Learning by building games.
 
-Java를 배우고, Unity로 게임을 만들고 있습니다. 작은 기능부터 직접 구현하고 다듬으며 프로젝트를 완성해 나가고 있습니다.
+안녕하세요, 호틱입니다. Java를 배우고 Unity로 게임을 만들고 있습니다.
+작은 기능부터 직접 구현하고, 실행해 보며 고치는 과정을 통해 개발을 익혀 가고 있습니다.
 
-## Featured project
+*Hi, I'm Hotik. I'm learning Java and building games with Unity, one feature at a time.*
 
-### CARDFORGE
-**Unity 6 · 로그라이크 덱빌더 · 개발 중**
+## 공부하고 사용하는 것
 
-카드를 조합하고 덱을 성장시키며 전투를 이어가는 게임을 만들고 있습니다.
-카드 시스템, 적의 행동, 화면과 사운드가 하나의 플레이 경험으로 이어지도록 다듬고 있습니다.
+- **C · Java** — 프로그래밍 기초와 로직
+- **C# · Unity 6** — 게임 시스템과 UI
+- **Git · GitHub** — 프로젝트 기록과 버전 관리
 
-- **현재 작업** — 게임 기능 구현과 플레이 검증
-- **출시 계획** — 영어 지원과 모바일 대응
+## 현재 만드는 것
 
-*A roguelike deck-building game in development with Unity 6. English localization and a mobile release are planned.*
-
-## Learning & tools
-
-- **C / Java** — 프로그래밍 기초와 게임 로직
-- **C# / Unity 6** — 게임 시스템과 UI 구현
-- **Git / GitHub** — 프로젝트 기록과 버전 관리
+**CARDFORGE** — Unity 기반 로그라이크 덱빌더를 개발하고 있습니다.
